@@ -1,1 +1,1 @@
-# fwi
+# Full Waveform Inversion Basics
