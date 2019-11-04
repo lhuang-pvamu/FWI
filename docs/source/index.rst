@@ -6,6 +6,9 @@
 Welcome to FWI's documentation!
 ===============================
 
+It is a repository to document how to solve the wave equation using the finite difference method. It is an exercise for Pysit introduction to Full Waveform Inversion (FWI): https://pysit.readthedocs.io/en/latest/exercises/index.html
+  
+
 Contents:
 
 .. toctree::

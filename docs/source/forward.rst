@@ -1,8 +1,9 @@
 The Forward Problem
 ===================
 
+Many types of wave motion can be described mathematically by the equation :math:`u_{tt} = \nabla \cdot (c^2\nabla u)+f`.
 
-In this exercise, you will implement a solver for the 1D scalar acoustic wave equation with absorbing boundary conditions,
+We first implement a solver for the 1D scalar acoustic wave equation with absorbing boundary conditions. 
 
 .. math::
 
