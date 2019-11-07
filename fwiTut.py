@@ -31,7 +31,7 @@ def ricker(t, config):
 config['nu0'] = 10  # Hz
 
 # Evaluate wavelet and plot it
-'''
+
 ts = np.linspace(0, 0.5, 1000)
 ws = ricker(ts, config)
 
@@ -46,7 +46,7 @@ plt.ylabel(r'$w(t)$', fontsize=18)
 plt.title('Ricker Wavelet', fontsize=22)
 
 plt.legend()
-'''
+
 
 ##############################################################################
 # Problem 1.2
