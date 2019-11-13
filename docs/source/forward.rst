@@ -27,10 +27,11 @@ In our notation, we write that solving this PDE is equivalent to applying a nonl
 
 We then write that :math:`\mathcal{F}[m] = u`.
 
+.. :doc:`source <./source>`
+
 Contents:
 
 .. toctree::
-   :maxdepth: 2
-   :numbered:
+   :maxdepth: 1
 
    source.rst
