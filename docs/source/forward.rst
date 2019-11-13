@@ -30,7 +30,7 @@ We then write that :math:`\mathcal{F}[m] = u`.
 Contents:
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :numbered:
 
-    source.rst
+   source.rst
